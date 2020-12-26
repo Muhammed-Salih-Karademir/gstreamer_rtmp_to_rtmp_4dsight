@@ -3,7 +3,7 @@ gst_rtmp_to_rtmp_main.cpp source kodun bulunduğu dosyadır.
 
 # Derlemek için  
 git clone https://github.com/Muhammed-Salih-Karademir/gstreamer_rtmp_to_rtmp_4dsight  
-cd gstreamer/gstreamer-01  
+cd gstreamer_RTMP_Stream_4dsight/gstreamer-01  
 mkdir build; cd build  
 cmake ../  
 make  
